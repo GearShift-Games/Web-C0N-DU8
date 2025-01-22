@@ -1,6 +1,6 @@
 # Ian Corbin
 
- ![Ian_Corbin]( ../10_equipe/img/ian.png)
+ ![Ian_Corbin]( ../img/ian.png)
 
  ## Réalisations
 
