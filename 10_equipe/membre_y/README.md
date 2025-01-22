@@ -1,6 +1,7 @@
 # Kevin Malric
 
  ![Kevin_Malric](../img/Kevin.png)
+ <img src="../img/Kevin.png" alt="Kevin_Malric" width="400"/>
 
  ## Réalisations
 
