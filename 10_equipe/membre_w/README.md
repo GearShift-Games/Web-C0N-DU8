@@ -1,6 +1,6 @@
 # Samuel Desmeules-Voyer 
 
- ![Samuel_Desmeules_Voyer ]( https://fakeimg.pl/400x400?text=w)
+ ![Samuel_Desmeules_Voyer ]( ../img/desmeules-voyer_samuel.png)
 
  ## Réalisations
 
