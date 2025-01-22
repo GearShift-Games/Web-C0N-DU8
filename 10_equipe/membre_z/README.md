@@ -1,6 +1,6 @@
 # Jérémy Roy-Coté
 
- ![Jérémy_Roy_Coté]( https://fakeimg.pl/400x400?text=z)
+ ![Jérémy_Roy_Coté](../img/jérémy.jpg)
 
  ## Réalisations
 
