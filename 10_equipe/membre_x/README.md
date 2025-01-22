@@ -1,6 +1,6 @@
-# Membre x
+# Alexandre Gervais
 
- ![Membre_w]( https://fakeimg.pl/400x400?text=x)
+ ![Alexandre_Gervais]( https://fakeimg.pl/400x400?text=x)
 
  ## Réalisations
 
