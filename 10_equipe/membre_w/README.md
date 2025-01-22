@@ -1,6 +1,6 @@
-# Membre W
+# Samuel Desmeules-Voyer 
 
- ![Membre_w]( https://fakeimg.pl/400x400?text=w)
+ ![Samuel_Desmeules_Voyer ]( https://fakeimg.pl/400x400?text=w)
 
  ## Réalisations
 
