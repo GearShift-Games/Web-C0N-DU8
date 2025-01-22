@@ -1,6 +1,6 @@
 # Ian Corbin
 
- ![Ian_Corbin]( ian.png/400x400?text=v)
+ ![Ian_Corbin]( ian.png)
 
  ## Réalisations
 
