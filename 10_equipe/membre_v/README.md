@@ -1,6 +1,6 @@
 # Ian Corbin
 
- <img src="../img/ian.png" alt="Ian_Corbin" width="400"/>
+ ![Ian_Corbin](../img/ian.png)
 
  ## Réalisations
 
