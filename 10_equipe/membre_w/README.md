@@ -1,6 +1,7 @@
 # Samuel Desmeules-Voyer 
 
  ![Samuel_Desmeules_Voyer ]( ../img/desmeules-voyer_samuel.png)
+ <img src="../img/desmeules-voyer_samuel.png" alt="Samuel_Desmeules_Voyer" width="100"/>
 
  ## Réalisations
 
