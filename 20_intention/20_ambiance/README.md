@@ -4,7 +4,7 @@
 
 ## Références
 
-### moodboard ambiance visuelle:
+### Moodboard ambiance visuelle:
 ![Ian_Corbin](../img_intention/tableau_ambiances.png)
 
 https://www.youtube.com/watch?v=Ub-VoLqGcx8  
