@@ -55,10 +55,50 @@ Modèle de publication pour le cours 582 66B experience multimedia interactive
 
 ## L'esthétique et élégance
 
+### Esthétique sonore
+
+*1.* Tempos rapide pour exiter les joueur et apporter plus d'immersion dans le monde de notre jeu.
+
+*2.* Musique électronique pour ajouter un effet futuristique / comme Tron.
+
+*3.* Utiliser des bass drop pour ajouter plus d'exitation à certaines actions et pour complémenté la musique d'ambiance.
+
+*4.* Lancer un musique bass bosted lors du dernier niveau pour ajouter de la drama au dernier stage du jeu. 
+
+#### effets sonnores
+
+
+*1.* Sons de décompression modifié pour l'activation du turbo
+
+
+*2.* Sons de grincement métalique queand tu tourne de façon serré
+
+*3.* Sons de collisions
+
+*4.* Sons de vélos
+
+### Effets visuels
+
+*1.* Étincelles électrique quand le joueur se penche trop.
+
+*2.* choc supersonique quand l'interacteur fini un tour de piste.
+
+*3.* Flammes par terre quand tu freine.
 
 ## l'espace
 |------------------------------|
-## Le temps
+## utilisation des principes du temps dans notre jeu
+
+### temps chronos
+
+*1.* Le chronomètre en temps réel
+
+### temps kairos
+
+*1.* Le temps relenti lors d'une fin de tour (influence temporairement la vitesse du chronomètre).
+
+*2.* Le temps s'arrête momentanément lors du déclenchement du turbo (influence temporairement la vitesse du chronomètre).
+
 
 ## Gallerie image exemple
 
