@@ -6,7 +6,7 @@
 
 
 ## Intention de départ
-L'objectif est de motiver les joueurs à améliorer leur condition physique en les plongeant dans une course effrénée et pleine de défis.
+L'objectif est de motiver les joueurs à améliorer leur condition physique en les plongeant dans une course effrénée et pleine de défis. Tout en renforçant son cardio, l'utilisateur vit des moments de puissance en se dépassant sans cesse pour rouler toujours plus vite. Il ressent alors une poussée d'adrénaline qui le motive à aller encore plus loin. 
 
 ## Description
 À chaque coup de pédale, la vitesse du vélo détermine la vitesse du véhicule dans le jeu : plus l'utilisateur pédale vite, plus il accélère, et s'il ralentit, son véhicule diminue également de vitesse. Le vélo stationnaire est équipé d'un capteur qui détecte la position du joueur, permettant non seulement de démarrer la course, mais aussi de contrôler la direction du véhicule en se penchant à gauche ou à droite. Un frein relié à un moteur ralentit l'utilisateur, tandis qu'un bouton à droite permet d'activer un turbo pour des accélérations temporaires.
