@@ -65,7 +65,7 @@ Modèle de publication pour le cours 582 66B experience multimedia interactive
 
 *4.* Lancer un musique bass bosted lors du dernier niveau pour ajouter de la drama au dernier stage du jeu. 
 
-#### effets sonnores
+#### Effets sonnores
 
 
 *1.* Sons de décompression modifié pour l'activation du turbo
