@@ -57,7 +57,7 @@ Modèle de publication pour le cours 582 66B experience multimedia interactive
 
 ### Esthétique sonore
 
-*1.* Tempos rapide pour exiter les joueur et apporter plus d'immersion dans le monde de notre jeu.
+*1.* Tempo rapide pour exiter les joueur et apporter plus d'immersion dans le monde de notre jeu.
 
 *2.* Musique électronique pour ajouter un effet futuristique / comme Tron.
 
