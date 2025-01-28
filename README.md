@@ -86,7 +86,19 @@ Modèle de publication pour le cours 582 66B experience multimedia interactive
 *3.* Flammes par terre quand tu freine.
 
 ## l'espace
-|------------------------------|
+
+
+### espace physique
+
+L'intéracteur est assit sur le vélo stationnaire et il regarde l'écran devant lui tout en pédalent.
+des haut-parleuur son placé de droite à gauche. L'intéracteur pourra interagir avec les boutons sur le vélos de façon analogue. Le lieu de présentation est localisé à l'entrée numéro 3, à côté du poste de garde.
+
+
+### espace digital
+
+
+L'ordinateur capte la présence du joueur grâce à la Kinect, judicieusement positionnée devant l'œuvre. Le logiciel TouchDesigner prend ensuite ces données captées et les convertit en une position horizontale. Lorsque l'utilisateur pédale, l'énergie générée par le moteur est traduite par le logiciel Arduino, avant d'être transmise à Unity, où elle influence l'interaction en temps réel. 
+
 ## utilisation des principes du temps dans notre jeu
 
 ### temps chronos
