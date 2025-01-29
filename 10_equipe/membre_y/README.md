@@ -1,4 +1,4 @@
-# Kevin Malric
+# Keven Malric
 
  ![Kevin_Malric](../img/Kevin.png)
 
