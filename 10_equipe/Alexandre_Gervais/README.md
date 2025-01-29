@@ -1,6 +1,6 @@
 # Alexandre Gervais
 
-![Alexandre_Gervais](../img/alexandreGervais.webp)
+![Alexandre_Gervais](../img/alexandreGervais-min.webp)
 
  ## Réalisations
 
