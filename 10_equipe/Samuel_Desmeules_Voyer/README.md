@@ -1,6 +1,6 @@
 # Samuel Desmeules-Voyer 
 
-![Samuel_Desmeules_Voyer](../img/desmeules-voyer_samuel.png)
+![Samuel_Desmeules_Voyer](../img/desmeules-voyer_samuel-min.png)
 
  ## Réalisations
 
