@@ -29,9 +29,9 @@ L'interacteur doit comprendre qu'il doit donner son maximum d'effort, il doit ga
 
 ### La logistique utilisée pour guider nos interacteurs(trices):
 
-1. nous vison à implanter un tutoriel sur l'écran tactile pour illustrer les interactions les mois évidentes. 2. nous prévoyons d'inclure une mini-map afin de diriger les joueurs vers des points de contrôle suivant le parcours à faire.
+1. Nous vison à implanter un tutoriel sur l'écran tactile pour illustrer les interactions les mois évidentes. 2. nous prévoyons d'inclure une mini-map afin de diriger les joueurs vers des points de contrôle suivant le parcours à faire.
 
-3. nous avons décidé d'utiliser des flèches pour indiquer les tournants ainsi que les raccourcis et chemins alternatifs.
+3. Nous avons décidé d'utiliser des flèches pour indiquer les tournants ainsi que les raccourcis et chemins alternatifs.
 
 4. Les rebords seront mauve foncé et la route sera bleu marine. (les couleurs du jeu sont toutes néon)
 
@@ -81,7 +81,7 @@ L'esthétique et élégance
 
 1. Étincelles électriques quand le joueur se penche trop.
 
-2. choc supersonique quand l'interacteur finit un tour de piste.
+2. Choc supersonique quand l'interacteur finit un tour de piste.
 
 3. Flammes par terre quand tu freines.
 
