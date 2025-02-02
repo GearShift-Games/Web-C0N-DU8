@@ -1,6 +1,6 @@
 # Keven Malric
 
- ![Kevin_Malric](../img/Keven-min.png)
+ ![Kevin_Malric](../img/keven_malric.webp)
 
  ## Rôle
 
