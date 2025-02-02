@@ -1,6 +1,6 @@
 # Jérémy Roy-Coté
 
- ![Jérémy_Roy_Coté](../img/jérémy-min.jpg)
+ ![Jérémy_Roy_Coté](../img/jeremy_roy-cote.webp)
 
  ## Réalisations
 
