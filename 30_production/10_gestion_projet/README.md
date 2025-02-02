@@ -1,12 +1,5 @@
 # Gestion de projet
-
-* Utilisez les fonctions de suivi de Projet dans github
-
-* Plus précisément, le modèle "Product Launch" (Lancement de produit) 
-
-* Mettre des liens vers votre outil de gestion de projets ici  
-
-
+### Notre [Gestion de Projet](https://github.com/orgs/GearShift-Games/projects/4/views/2)
 
 ## Tableau par semaine
 
