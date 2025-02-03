@@ -7,4 +7,5 @@
 * [Scénarimage](/20_intention/40_scenarimage/)
  <!-- end-replace-subnav -->  
 
-
+## Vidéo d'intention
+https://youtu.be/ItAA8mjTDNU
