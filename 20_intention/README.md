@@ -8,4 +8,4 @@
  <!-- end-replace-subnav -->  
 
 ## Vidéo d'intention
-https://youtu.be/ItAA8mjTDNU
+[![Vidéo d'intention](https://img.youtube.com/vi/wziDJZdT_d4/0.jpg)](https://www.youtube.com/watch?v=wziDJZdT_d4)
