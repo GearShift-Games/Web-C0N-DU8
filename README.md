@@ -2,7 +2,7 @@
 
 ![Titre C0NDU8](./medias/images/titre_c0ndu8.png)
 
-[Vidéo de présentation](https://www.youtube.com/watch?v=wziDJZdT_d4)
+(bande annonce ici)
 
 ## Résumé
 Des motards décédés se retrouvent à un purgatoire après leurs mort et sont forcés par un être divin qu'ils connaissent seulement sous le nom de *Le Malin* à perpétuellement concourrir contre les autres motards dans une course d'endurance à vélo pour fuir leur tourment éternel, du moins, c'est ce qu'ils croient. Ce qu’aucun d’entre eux sait, c'est que peu importe s'ils gagnent ou perdent, ils sont condamnés à refaire cette course contre de nouveaux adversaires. S'ils sont derniers pendant trop longtemps une bombe placé sur leur casque explosera.  
