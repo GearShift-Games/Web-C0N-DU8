@@ -17,13 +17,33 @@ Moi et mon équipe avons ensuite fini de solidifier notre approche sur comment f
 je me suis ensuite attardé sur la détection du joueur avec la Kinect et l'envois des données vers Unity.
 
 ![S1 detection Touchdesigner](./Semaine_1-Touchdesigner.webp)
+
 ![S1 reception OSC Unity](./Semaine_1_Unity_Reception_OSC_Basique.webp)
+
 ![S1 traitement OSC unity](./Semaine_1_Unity_Traitement_OSC.webp)
 
 ### Semaine 2
 
+La deuxième semaine j'ai établit la connection entre Arduino IDE et Unity pour permettre la réception des données venant des boutons.
+
+![S2 detection boutons Arduino](./Semaine_2_Arduino_Bouton.webp)
+
+![S2 boutons](./Semaine_2_Boutons.webp)
+
+J'ai ensuite regler le problème de détection du joueur quand il y a plusieur personnes dans le champ de vision de la Kinect. Le code passe a travers toutes les personnes et choisi seulement la personne sur le vélo stationnaire.
+
+![S2 selection joueur](./Semaine_2_Touchdesigner_Selection_Joueur.webp)
+
+Le code si dessous permet de recommencer le jeu si le joueur quitte la zone.
+
+![S2 detection joueur](./Semaine_2_Unity_Detection_Joueur.webp)
+
+J'au aussi aidé Samuel à créer un UI pour le jeu.
+
+![S2 UI jeu](./Semaine_2_ui.webp)
 
 ### Semaine 3
+
 
 
 ### Semaine 4
