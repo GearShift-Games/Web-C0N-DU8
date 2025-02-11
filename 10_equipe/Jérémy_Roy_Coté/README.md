@@ -30,7 +30,7 @@ La deuxième semaine j'ai établit la connection entre Arduino IDE et Unity pour
 
 ![S2 boutons](./Semaine_2_Boutons.webp)
 
-J'ai ensuite regler le problème de détection du joueur quand il y a plusieur personnes dans le champ de vision de la Kinect. Le code passe a travers toutes les personnes et choisi seulement la personne sur le vélo stationnaire.
+J'ai ensuite reglé le problème de détection du joueur quand il y a plusieur personnes dans le champ de vision de la Kinect. Le code passe a travers toutes les personnes et choisi seulement la personne sur le vélo stationnaire.
 
 ![S2 selection joueur](./Semaine_2_Touchdesigner_Selection_Joueur.webp)
 
@@ -38,9 +38,6 @@ Le code si dessous permet de recommencer le jeu si le joueur quitte la zone.
 
 ![S2 detection joueur](./Semaine_2_Unity_Detection_Joueur.webp)
 
-J'au aussi aidé Samuel à créer un UI pour le jeu.
-
-![S2 UI jeu](./Semaine_2_ui.webp)
 
 ### Semaine 3
 
@@ -51,10 +48,6 @@ La troisième semaine j'ai continué de peaufiner le code Touchdesigner pour mai
 ![S3 changement des valeurs dans Touchdesigner](./Semaine_3_Touchdesigner_Calibration.webp)
 
 J'ai aussi ajouté un début de tutoriel dans unity pour permettre au joueur de comprendre comment calibrer leur sensibilité.
-
-![S3 Tutoriel et calibration](./Semaine_3_Unity_Tutoriel_Calibration.webp)
-
-![S3 retour en arrière dans le tutoriel](./Semaine_3_Unity_Bouton_2.webp)
 
 ### Semaine 4
 
