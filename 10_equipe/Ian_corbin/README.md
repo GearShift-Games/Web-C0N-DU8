@@ -11,7 +11,7 @@ Pour la première semaine, j'ai trouvé comment faire le circuit du jeu ainsi qu
  ![Texture](./Semaine_1_Texture.webp)
  
 ### Semaine 2
-Pour la deuxième semaine, j'ai commencé la création du circuit.
+Pour la deuxième semaine, j'ai commencé l'intégration du circuit avec le système de création de routes.
   ![Piste1](./Semaine_2_Réalisation_Piste.webp)
   ![Piste2](./Semaine_2_Creation.webp)
   
