@@ -44,9 +44,21 @@ J'au aussi aidé Samuel à créer un UI pour le jeu.
 
 ### Semaine 3
 
+La troisième semaine j'ai continué de peaufiner le code Touchdesigner pour maintenant permettre à chaque joueur de calibrer la sensibilité de la détection de leurs mouvements.
 
+![S3 nouveau Touchdesigner](./Semaine_3_Touchdesigner.webp)
+
+![S3 changement des valeurs dans Touchdesigner](./Semaine_3_Touchdesigner_Calibration.webp)
+
+J'ai aussi ajouté un début de tutoriel dans unity pour permettre au joueur de comprendre comment calibrer leur sensibilité.
+
+![S3 Tutoriel et calibration](./Semaine_3_Unity_Tutoriel_Calibration.webp)
+
+![S3 retour en arrière dans le tutoriel](./Semaine_3_Unity_Bouton_2.webp)
 
 ### Semaine 4
+
+
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
 
 * ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
