@@ -4,6 +4,23 @@
 
  ## Réalisations
 
- <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
+### Semaine 1
+Pour la première semaine, j'ai trouvé comment faire le circuit du jeu ainsi que commencé une texture test.
 
-* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=concept)
+ ![Generateur de circuit](./Semaine1_generator.webp)
+ ![Texture](./Semaine_1_Texture.webp)
+ 
+### Semaine 2
+Pour la deuxième semaine, j'ai commencé la création du circuit.
+  ![Piste1](./Semaine_2_Réalisation_Piste.webp)
+  ![Piste2](./Semaine_2_Creation.webp)
+  
+### Semaine 3
+Pour la troisième semaine, j'ai complètement refait notre projet Unity jusqu'à présent afin de changer notre projet de render pipeline à HDRP. J'ai aussi rajouté des murs à la piste et j'ai créé une première piste complète.
+ ![Circuit Mur](./Semaine_3_Murs.webp)
+ ![Circuit 01](./Semaine_3_Piste.webp)
+ ![Circuit 02](./Semaine_3_Survol.webp)
+
+### Semaine 4
+Pour la quatrième semaine, j'ai intégré les ennemis au circuit et je leur ai donné un système d'IA de Navigation Pathfinder afin de leur faire suivre le circuit au complet. J'ai aussi fait des VFX, comme les trails derrière le vélo.
+ ![Pathfinder](./Semaine_4_AI.webp)
