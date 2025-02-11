@@ -1,5 +1,5 @@
 # Alexandre Gervais
-![Alexandre_Gervais](../img/alexandre_gervais.webp)
+![Alexandre Gervais](../img/alexandre_gervais.webp)
 
 Je suis le programmeur des méchaniques dans l'engin de jeu Unity. Je m'occupe des movements de base du jeu comme pouvoir tourner à horizontalement et avancer vers l'avant. Je suis également le responsable des méchaniques centrales comme le turbo permettant à l'utilisateur de rattraper la compétition. Parlant de la compétition, moi et Ian Corbin sont responsables de fonctionnement interne du movement des AI qui défient l'utilisateur.
 
@@ -29,7 +29,7 @@ Pour cette semaine, mon objectif était de faire que le vélo se contrôle bien 
 
 De plus, j'ai changé le système de caméra pour le système cinemachine, qui offre une caméra plus dynamique qui met l'accent sur la vitesse et les virages.
 
-![Cinemachine Preview](./Semaine_3_Caméra_Dynamique.webp)
+![Aperçu du Cinemachine](./Semaine_3_Caméra_Dynamique.webp)
 
 Finalement, j'ai refait le code de movement pour se centrer autour des Wheel Colliders aulieu du Rigidbody avec des fonctions pour chaque actions. Il y a quelques problèmes comme la friction trop glissante, la vitesse du vélo est lente et, une fois un virage fait, le vélo pendule entre faire une rotation z vers la gauche et la droite à l'infini.
 
