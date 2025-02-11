@@ -18,16 +18,16 @@ Durant notre deuxième semaine de travail, j'ai programmé un système de mouvem
 ![Une scène de tests du vélo](./Semaine_2_Tests.webp)
 ![Vélo qui test l'élévation](./Semaine_2_Élévation.webp)
 
-J'ai essayé divers manières et rechercher comment améliorer mon système et ce que j'ai trouvé est que le système au complet n'est pas super car il est fait autour des principes liés à la composante Rigidbody, typiquement utilisée pour simuler les physiques et la mass, aulieu de quelque chose plus similair à un véhicule.
+J'ai essayé divers manières et rechercher comment améliorer mon système et ce que j'ai trouvé est que le système au complet n'est pas super car il est fait autour des principes liés à la composante [Rigidbody](https://docs.unity3d.com/6000.0/Documentation/ScriptReference/Rigidbody.html), typiquement utilisée pour simuler les physiques et la mass, aulieu de quelque chose plus similair à un véhicule.
 
 ![Code des movements de la semaine 2](./Semaine_2_Code.webp)
 
 ### Semaine 3
-Pour cette semaine, mon objectif était de faire que le vélo se contrôle bien et est satisfaisant à controller. Je visais à atteindre ceci avec ma nouvelle approche pour simuler les physiques d'un vélo, utiliser des wheel colliders. Ceci est une composante de base dans l'engin Unity qui a différent attributs qui vise à simuler une voiture, donc mon but était de modifier les wheels colliders pour se rapprocher à des physiques de vélo plutôt que de voiture.
+Pour cette semaine, mon objectif était de faire que le vélo se contrôle bien et est satisfaisant à controller. Je visais à atteindre ceci avec ma nouvelle approche pour simuler les physiques d'un vélo, utiliser des [wheel colliders](https://docs.unity3d.com/Manual/class-WheelCollider.html). Ceci est une composante de base dans l'engin Unity qui a différent attributs qui vise à simuler une voiture, donc mon but était de modifier les wheels colliders pour se rapprocher à des physiques de vélo plutôt que de voiture.
 
 ![Wheel Colliders dans Unity](./Semaine_3_Wheel_Colliders.webp)
 
-De plus, j'ai changé le système de caméra pour le système cinemachine, qui offre une caméra plus dynamique qui met l'accent sur la vitesse et les virages.
+De plus, j'ai changé le système de caméra pour le système [cinemachine](https://unity.com/fr/features/cinemachine), qui offre une caméra plus dynamique qui met l'accent sur la vitesse et les virages.
 
 ![Aperçu du Cinemachine](./Semaine_3_Caméra_Dynamique.webp)
 
