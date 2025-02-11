@@ -49,9 +49,3 @@ La troisième semaine j'ai continué de peaufiner le code Touchdesigner pour mai
 
 J'ai aussi ajouté un début de tutoriel dans unity pour permettre au joueur de comprendre comment calibrer leur sensibilité.
 
-### Semaine 4
-
-
- <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
-
-* ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
