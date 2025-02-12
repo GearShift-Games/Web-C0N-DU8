@@ -17,11 +17,19 @@ Je suis directeur artistique et artiste 3D en chef pour le projet C0NDU8. Mon r�
  ### Semaine 2
  Pour la deuxième semaine, le concept du jeu était largement aprouvé donc j'ai pu me concentrer sur la modélisation du personage principal.
 
+![Casque du personnage principal](casque.webp)
 ![Tests pour le model du personage](test_personage.webp)
 ![Première version du personage](personage_v1.webp)
 ![Première version du personage](personage_v2.webp)
-![](dessin_ui.webp)
 
- ### Semaine
+ ### Semaine 3
+Ma troisième semain à été passée presque entièrement à faire le logo de Conduite. J'ai aussi finalisé la modèle du personage principal, ses textures et son squelette pour finalement l'intégrer dans Unity.
+
+![Casque avec les textures](casque_texture.webp)
+![Corps du personage avec les textures](corps_texture.webp)
+![Tests dans Unity](tests_perso_unity.webp)
+![Personage intégré dans Unity](integration_perso.webp)
+
+ ### Semaine 4
 
 * ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
