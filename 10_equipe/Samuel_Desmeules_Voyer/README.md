@@ -9,11 +9,13 @@ Je suis directeur artistique et artiste 3D en chef pour le projet C0NDU8. Mon r�
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
 
  ### Semaine 1
- La première semaine était en majorité dédiée à la clarification du concept de C0NDU8 mais j'ai aussi pu commencer à travailler sur mon premier modèle 3D: Le vélo.
+ La première semaine était en majorité dédiée à la clarification du concept de C0NDU8 mais j'ai aussi pu commencer à dessiner des concepts pour l'interface utilisateur et travailler sur mon premier modèle 3D: Le vélo.
 
- (image)
+ (images)
 
  ### Semaine 2
- 
+ Pour la deuxième semaine, le concept du jeu était largement aprouvé donc j'ai pu me concentrer sur la modélisation du personage principal.
+
+ ### Semaine
 
 * ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
