@@ -12,9 +12,15 @@ Je suis directeur artistique et artiste 3D en chef pour le projet C0NDU8. Mon r�
  La première semaine était en majorité dédiée à la clarification du concept de C0NDU8 mais j'ai aussi pu commencer à dessiner des concepts pour l'interface utilisateur et travailler sur mon premier modèle 3D: Le vélo.
 
 ![Dessin UI](dessin_ui.webp)
+![velo](velo_statique.webp)
 
  ### Semaine 2
  Pour la deuxième semaine, le concept du jeu était largement aprouvé donc j'ai pu me concentrer sur la modélisation du personage principal.
+
+![Tests pour le model du personage](test_personage.webp)
+![Première version du personage](personage_v1.webp)
+![Première version du personage](personage_v2.webp)
+![](dessin_ui.webp)
 
  ### Semaine
 
