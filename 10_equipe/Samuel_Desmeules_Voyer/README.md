@@ -9,40 +9,40 @@ Je suis directeur artistique et artiste 3D en chef pour le projet C0NDU8. Mon r�
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
 
  ### Semaine 1
- La première semaine était en majorité dédiée à la clarification du concept de C0NDU8 mais j'ai aussi pu commencer à dessiner des concepts pour l'interface utilisateur et travailler sur mon premier modèle 3D: Le vélo.
+ La première semaine était en majorité dédiée à la clarification du concept de C0N DU8 mais j'ai aussi pu commencer à dessiner des concepts pour l'interface utilisateur et travailler sur mon premier modèle 3D: Le vélo.
 
-![Dessin UI](dessin_ui.webp)
+![Dessin UI](./img/dessin_ui.webp)
 
 
-![velo](velo_statique.webp)
+![Vélo](./img/velo_statique.webp)
 
  ### Semaine 2
- Pour la deuxième semaine, le concept du jeu était largement aprouvé donc j'ai pu me concentrer sur la modélisation du personage principal.
+ Pour la deuxième semaine, le concept du jeu était largement aprouvé donc j'ai pu me concentrer sur la modélisation du personnage principal.
 
-![Casque du personnage principal](casque.webp)
-
-
-![Tests pour le model du personage](test_personage.webp)
+![Casque du personnage principal](./img/casque.webp)
 
 
-![Première version du personage](personage_v1.webp)
+![Tests pour le model du personnage](./img/test_personage.webp)
 
 
-![Première version du personage](personage_v2.webp)
+![Première version du personnage](./img/personage_v1.webp)
+
+
+![Première version du personnage](./img/personage_v2.webp)
 
  ### Semaine 3
-Ma troisième semain à été passée presque entièrement à faire le logo de Conduite. J'ai aussi finalisé la modèle du personage principal, ses textures et son squelette pour finalement l'intégrer dans Unity.
+Ma troisième semaine à été passée presque entièrement à faire le logo de Conduite. J'ai aussi finalisé la modèle du personnage principal, ses textures et son squelette pour finalement l'intégrer dans Unity.
 
-![Casque avec les textures](casque_texture.webp)
-
-
-![Corps du personage avec les textures](corps_texture.webp)
+![Casque avec les textures](./img/casque_texture.webp)
 
 
-![Tests dans Unity](tests_perso_unity.webp)
+![Corps du personage avec les textures](./img/corps_texture.webp)
 
 
-![Personage intégré dans Unity](integration_perso.webp)
+![Tests dans Unity](./img/tests_perso_unity.webp)
+
+
+![Personage intégré dans Unity](./img/integration_perso.webp)
 
  ### Semaine 4
 

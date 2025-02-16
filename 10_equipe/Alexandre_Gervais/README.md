@@ -8,29 +8,29 @@ Je suis le programmeur des méchaniques dans l'engin de jeu Unity. Je m'occupe d
 ### Semaine 1
 Pour la première semaine de travail, mon équipe et moi on rafiné le concept du jeu et ses méchaniques pour s'assurer que notre projet soit unique, créatif et amusant.
 
-![Tableau d'idées](./Semaine_1_Tableau.webp)
+![Tableau d'idées](./img/Semaine_1_Tableau.webp)
 
-![Équipe qui brainstorm](./Semaine_1_Équipe.webp)
+![Équipe qui brainstorm](./img/Semaine_1_Équipe.webp)
 
 ### Semaine 2
 Durant notre deuxième semaine de travail, j'ai programmé un système de mouvement de base qui est fonctionnel, mais qui a divers problèmes, surtout rapport avec les physiques du vélo. 
 
-![Une scène de tests du vélo](./Semaine_2_Tests.webp)
-![Vélo qui test l'élévation](./Semaine_2_Élévation.webp)
+![Une scène de tests du vélo](./img/Semaine_2_Tests.webp)
+![Vélo qui test l'élévation](./img/Semaine_2_Élévation.webp)
 
 J'ai essayé divers manières et rechercher comment améliorer mon système et ce que j'ai trouvé est que le système au complet n'est pas super car il est fait autour des principes liés à la composante [Rigidbody](https://docs.unity3d.com/6000.0/Documentation/ScriptReference/Rigidbody.html), typiquement utilisée pour simuler les physiques et la mass, aulieu de quelque chose plus similair à un véhicule.
 
-![Code des movements de la semaine 2](./Semaine_2_Code.webp)
+![Code des movements de la semaine 2](./img/Semaine_2_Code.webp)
 
 ### Semaine 3
 Pour cette semaine, mon objectif était de faire que le vélo se contrôle bien et est satisfaisant à controller. Je visais à atteindre ceci avec ma nouvelle approche pour simuler les physiques d'un vélo, utiliser des [wheel colliders](https://docs.unity3d.com/Manual/class-WheelCollider.html). Ceci est une composante de base dans l'engin Unity qui a différent attributs qui vise à simuler une voiture, donc mon but était de modifier les wheels colliders pour se rapprocher à des physiques de vélo plutôt que de voiture.
 
-![Wheel Colliders dans Unity](./Semaine_3_Wheel_Colliders.webp)
+![Wheel Colliders dans Unity](./img/Semaine_3_Wheel_Colliders.webp)
 
 De plus, j'ai changé le système de caméra pour le système [cinemachine](https://unity.com/fr/features/cinemachine), qui offre une caméra plus dynamique qui met l'accent sur la vitesse et les virages.
 
-![Aperçu du Cinemachine](./Semaine_3_Caméra_Dynamique.webp)
+![Aperçu du Cinemachine](./img/Semaine_3_Caméra_Dynamique.webp)
 
 Finalement, j'ai refait le code de movement pour se centrer autour des Wheel Colliders aulieu du Rigidbody avec des fonctions pour chaque actions. Il y a quelques problèmes comme la friction trop glissante, la vitesse du vélo est lente et, une fois un virage fait, le vélo pendule entre faire une rotation z vers la gauche et la droite à l'infini.
 
-![Code des movements de la semaine 3](./Semaine_3_Code.webp)
+![Code des movements de la semaine 3](./img/Semaine_3_Code.webp)
