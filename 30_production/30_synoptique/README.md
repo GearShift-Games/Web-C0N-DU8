@@ -2,7 +2,7 @@
 ```mermaid
 flowchart TD
     A[Prise électrique] --> B[PC]
-    B --> |USB-C| C[Volt-o-mètre]
+    B --> |USB-C| C[Voltmètre]
     B --> |USB| D[Kinect]
     B --> |HDMI| E[Projecteur]
     B --> |Ethernet| E
