@@ -34,3 +34,18 @@ De plus, j'ai changé le système de caméra pour le système [cinemachine](http
 Finalement, j'ai refait le code de movement pour se centrer autour des Wheel Colliders aulieu du Rigidbody avec des fonctions pour chaque actions. Il y a quelques problèmes comme la friction trop glissante, la vitesse du vélo est lente et, une fois un virage fait, le vélo pendule entre faire une rotation z vers la gauche et la droite à l'infini.
 
 ![Code des movements de la semaine 3](./img/Semaine_3_Code.webp)
+
+### Semaine 4
+Mon objectif pour cette semaine était de complèter le plus de petites parties que je pouvais telle que faire que le UI soit dynamique et améliorer ma scène Unity de tests pour tester les mouvements dans le but de pouvoir donner du feedback à mon équipe.
+
+![Scène de tests mise à jour](./img/Semaine_4_Scene_Tests.webp)
+
+Pour le UI, j'ai ajouté une composante script à notre canvas et j'ai codé ce qui était nécessaire pour connecter divers intéractions (telle que le positionnement du joueur, sa vitesse et le temps épuisé) à l'interface dans le but de le rendre dynamique.
+
+![Interface dynamique](./img/Semaine_4_UI.webp)
+
+![Aperçu du code de l'interface](./img/Semaine_4_Code_UI.webp)
+
+De plus, j'ai programmé un compte à rebours au début de la course pour donner à l'utilisateur du temps pour comprendre ce qui est attendu de lui.
+
+![Aperçu du code du compte à rebours](./img/Semaine_4_Code_Debut_Course.webp)
