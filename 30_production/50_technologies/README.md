@@ -10,7 +10,7 @@ Nécessaires pour le traitement en temps réel des médias riches (vidéo, audio
 ### Vélo stationnaire
 Le vélo stationnaire sert à donner au projet son identité et à servir pour contrôler l'endroit où l'utilisateur est ainsi que ses actions.
 
-#### Volt-o-mètre
+#### Voltmètre
 Sert à détecter la vitesse à laquelle l'utilisateur pédale grâce à l'électricité produite.
 
 #### Kinect
