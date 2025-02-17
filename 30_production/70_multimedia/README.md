@@ -1,7 +1,11 @@
 # Contenu multimédia
+- [Répertoire Unity](https://github.com/GearShift-Games/UNITY-HDRP-C0N-DU8)
+- [Répertoire Web](https://github.com/GearShift-Games/Web-C0N-DU8)
+- [Répertoire TouchDesigner](https://github.com/GearShift-Games/TouchDesigners-C0N-DU8)
+- [Répertoire Audio](https://github.com/GearShift-Games/Audio-C0N-DU8)
+- [Répertoire Arduino](https://github.com/GearShift-Games/Arduino-C0N-DU8)
 
-
-## Jeu:
+## Audio présent dans le jeu :
 - Musique d'ambiance
 - Effet sonore pour le décompte du départ
 - Effet sonore pour la collision joueur et mur
