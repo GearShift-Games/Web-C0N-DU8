@@ -29,5 +29,8 @@ Prendre en compte les risques liées à la position, la durabilité ainsi que le
  ## Réalisations
 
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->
+ ### semaine 1
+
+ j'ai révisé le concepte du projet 
 
 * ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
