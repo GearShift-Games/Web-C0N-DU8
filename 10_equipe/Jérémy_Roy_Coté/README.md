@@ -49,3 +49,10 @@ La troisième semaine j'ai continué de peaufiner le code Touchdesigner pour mai
 
 J'ai aussi ajouté un début de tutoriel dans unity pour permettre au joueur de comprendre comment calibrer leur sensibilité.
 
+### Semaine 4
+
+La quatrième semaine j'ai finalement reçu le voltmètre pour faire fonctionner les pédales avec le jeu. J'ai fait le code et le liens correspondant au voltmètre dans Arduino et Unity. 
+
+![S3 nouveau Touchdesigner](./img/Semaine_4_Voltmetre.wepb)
+
+J'ai ensuite fait un le code dans Unity permettant de savoir la position de de chaque participant de la course pour ensuite pouvoir les éliminer quand il sont en dernière place.
