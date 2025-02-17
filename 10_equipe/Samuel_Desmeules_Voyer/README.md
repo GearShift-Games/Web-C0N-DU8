@@ -45,5 +45,8 @@ Ma troisième semaine à été passée presque entièrement à faire le logo de 
 ![Personage intégré dans Unity](./img/integration_perso.webp)
 
  ### Semaine 4
+ Cette semaine était consacrée à réaliser le UI du jeu, enregistrer des sons, et updater le github.
+
+ ![Image du UI](./img/ui.webp)
 
 * ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
