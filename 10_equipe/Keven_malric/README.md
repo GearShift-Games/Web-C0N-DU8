@@ -33,13 +33,19 @@ Prendre en compte les risques liées à la position, la durabilité ainsi que le
 
  j'ai révisé le concepte du projet au point de vue des effets sonnores et du déploiement technique.
 
+ * ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
+
   ### semaine 2
 
  j'ai édité et filmé la vidéo d'intention avec l'aide du petit studio et du logiciel Reaper et Davinci.
 
+ * ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
+
  ### semaine 3
 
  j'ai refait une vidéo d'intention avec, cette fois-ci des images et des animations et une melleur qualité sonore, J'ai pris les mesures de la zone qui nous est attitrée afin de bien placé l'équipement dans l'environnement et j'ai crée un shémat tachnique avec ces mesures, dans le logiciel Inkscape.
+
+ * ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
 
  ### semaine 4 
  j'ai enregistré et fait le montage de tous les efftets sonore nécessaire au bon foctionnement du jeux, 
