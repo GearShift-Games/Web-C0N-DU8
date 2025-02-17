@@ -33,4 +33,15 @@ Prendre en compte les risques liées à la position, la durabilité ainsi que le
 
  j'ai révisé le concepte du projet au point de vue des effets sonnores et du déploiement technique.
 
+  ### semaine 2
+
+ j'ai édité et filmé la vidéo d'intention.
+
+ ### semaine 3
+
+ j'ai refait une vidéo d'intention avec, cette fois-ci des images et des animations et une melleur qualité sonore.
+
+ ### semaine 4 
+ j'ai enregistré et fait le montage de tous les sons du jeux.
+
 * ![S1 Développement du concept](https://fakeimg.pl/400x400?text=Concept)
