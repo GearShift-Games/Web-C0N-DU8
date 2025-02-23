@@ -24,3 +24,7 @@ Pour la troisième semaine, j'ai complètement refait notre projet Unity jusqu'�
 ### Semaine 4
 Pour la quatrième semaine, j'ai intégré les ennemis au circuit et je leur ai donné un système d'IA de Navigation Pathfinder afin de leur faire suivre le circuit au complet. J'ai aussi fait des VFX, comme les trails derrière le vélo.
  ![Pathfinder](./img/Semaine_4_AI.webp)
+
+ ### Semaine 5
+Pour la cinquième semaine, j'ai créer une nouvelle intersection pour la piste et j'ai refait la majorité du code pour le controle du joueur afin de créer une expérience plus fluide.
+ ![Intersection](./img/Intersection.webp)
