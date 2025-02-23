@@ -49,3 +49,18 @@ Pour le UI, j'ai ajouté une composante script à notre canvas et j'ai codé ce 
 De plus, j'ai programmé un compte à rebours au début de la course pour donner à l'utilisateur du temps pour comprendre ce qui est attendu de lui.
 
 ![Aperçu du code du compte à rebours](./img/Semaine_4_Code_Debut_Course.webp)
+
+### Semaine 5
+Pour cette semaine, mon objectif était de simplifier l'interface de l'utilisateur en enlevant tout, puis ajouter des icônes pour représenter le temps restant pour chacun joueur d'une manière intuitive.
+
+J'ai fait plusieurs versions de la représentations des joueurs comme celle-ci :
+
+![Prototype du UI retravaillé](./img/Semaine_5_UI_v3.webp)
+
+Ceci est la version dont on planifie utiliser :
+
+![Le UI retravaillé](./img/Semaine_5_UI_v4.webp)
+
+Le portrait des personnages baisse grandement en opacité une fois que le personnage est éliminé, mais la fusible de bombe ne se réduit pas encore pour représenter le temps restant pour les joueurs.
+
+![UI retravaillé et dynamique](./img/Semaine_5_UI_elimination.webp)
