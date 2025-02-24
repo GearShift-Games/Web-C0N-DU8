@@ -52,3 +52,10 @@ Prendre en compte les risques liées à la position, la durabilité ainsi que le
  j'ai modifié le vélo pour le rendre plus stable puis j'ai changé la roue afin qu'elle vacille moin et soit moin bruillante.
 
 * ![S1 Développement du concept](../img/creation_sonores.png)
+
+
+### semaine 5 
+j'ai passé la pluspart de la semaine à crée l'ambiance sonnore du jeu (la musique). 
+De plus, j'ai crée des textures pour les pistes de courses.
+
+* ![S1 Développement du concept](../img/creation_sonores.png)
