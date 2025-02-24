@@ -48,3 +48,10 @@ Ma troisième semaine à été passée presque entièrement à faire le logo de 
  Cette semaine était consacrée à réaliser le UI du jeu, enregistrer des sons, et updater le github.
 
  ![Image du UI](./img/ui.webp)
+
+ ### Semaine 5
+ Cette semaine j'ai fait des modèles 3D et animé le personage principal.
+
+ ![Personage intégré dans Unity](./img/integration_perso.webp)
+ ![Personage intégré dans Unity](./img/integration_perso.webp)
+ ![Personage intégré dans Unity](./img/integration_perso.webp)
