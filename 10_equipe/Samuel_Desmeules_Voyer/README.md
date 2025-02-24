@@ -52,6 +52,7 @@ Ma troisième semaine à été passée presque entièrement à faire le logo de 
  ### Semaine 5
  Cette semaine j'ai fait des modèles 3D et animé le personage principal.
 
- ![Personage intégré dans Unity](./img/integration_perso.webp)
- ![Personage intégré dans Unity](./img/integration_perso.webp)
- ![Personage intégré dans Unity](./img/integration_perso.webp)
+ ![Image de l'obelisk](./img/obelisk.webp)
+ ![Image du triple cube](./img/triple.webp)
+ ![Image du trou noir](./img/blackhole.webp)
+ ![Personage animé](./img/anime.webp)
