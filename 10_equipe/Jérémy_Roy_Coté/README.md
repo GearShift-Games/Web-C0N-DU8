@@ -53,6 +53,18 @@ J'ai aussi ajouté un début de tutoriel dans unity pour permettre au joueur de 
 
 La quatrième semaine j'ai finalement reçu le voltmètre pour faire fonctionner les pédales avec le jeu. J'ai fait le code et le liens correspondant au voltmètre dans Arduino et Unity. 
 
-![S3 nouveau Touchdesigner](./img/Semaine_4_Voltmetre.wepb)
+![S4 Voltmetre](./img/Semaine_4_Voltmetre.wepb)
 
 J'ai ensuite fait un le code dans Unity permettant de savoir la position de de chaque participant de la course pour ensuite pouvoir les éliminer quand il sont en dernière place.
+
+### Semaine 5
+
+La cinqième semaine j'ai fait un script python dans Touchdesigner pour prendre en compte le milieu de la calibration.
+
+![S5 Python Touchdesigner](./img/Semaine_5_Touchdesigner_Python_Scaling.webp)
+
+J'ai continuer ma semaine en travaillant sur le script de l'AI pour leur permettre de choisir un chemin different quand il y a plusieur dhemin de disponible.
+
+![S5 Python Touchdesigner](./img/Semaine_5_Chemin_Aleatoire_Fin_Tour.webp)
+![S5 Python Touchdesigner](./img/Semaine_5_Chemin_Aleatoire.webp)
+
