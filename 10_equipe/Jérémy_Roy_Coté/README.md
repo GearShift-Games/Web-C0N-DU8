@@ -63,8 +63,8 @@ La cinqième semaine j'ai fait un script python dans Touchdesigner pour prendre 
 
 ![S5 Python Touchdesigner](./img/Semaine_5_Touchdesigner_Python_Scaling.webp)
 
-J'ai continuer ma semaine en travaillant sur le script de l'AI pour leur permettre de choisir un chemin different quand il y a plusieur dhemin de disponible.
+J'ai continuer ma semaine en travaillant sur le script de l'AI pour leur permettre de choisir un chemin different quand il y à plusieurs chemin de disponible.
 
-![S5 Python Touchdesigner](./img/Semaine_5_Chemin_Aleatoire_Fin_Tour.webp)
-![S5 Python Touchdesigner](./img/Semaine_5_Chemin_Aleatoire.webp)
+![S5 Choix de chemin en fin de tour](./img/Semaine_5_Chemin_Aleatoire_Fin_Tour.webp)
+![S5 Script chemin aleatoire](./img/Semaine_5_Chemin_Aleatoire.webp)
 
