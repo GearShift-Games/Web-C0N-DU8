@@ -58,4 +58,15 @@ Prendre en compte les risques liées à la position, la durabilité ainsi que le
 j'ai passé la pluspart de la semaine à crée l'ambiance sonnore du jeu (la musique). 
 De plus, j'ai crée des textures pour les pistes de courses.
 
-* ![S1 Développement du concept](../img/creation_sonores.png)
+* ![S1 Développement du concept](../img/ambiance_course.png)
+
+* ![S1 Développement du concept](../img/orange_light_ray_road.png)
+ 
+* ![S1 Développement du concept](../img/orange_light_particles_road.png)
+   
+* ![S1 Développement du concept](../img/blue_light_particles_road.png)
+
+* ![S1 Développement du concept](../img/force_field_v1.png)
+
+* ![S1 Développement du concept](../img/force_field_v2.png)
+ 
