@@ -10,10 +10,10 @@ La maquette sert de base pour notre oeuvre. Elle permet de tester tous les méch
 * ![Chariot avec l'équipement](./img/Chariot.webp)
 * ![Vélo Stationnaire](./img/Velo.webp)
 * ![Projection du jeu](./img/Projection.webp)
-<!--* ![L'oeuvre en action](./img/Action.webp)-->
+* ![L'oeuvre en action](./img/Action.webp)
 
 ## Vidéo de la maquette en action
-<!--[![Maquette en action](https://img.youtube.com/vi/VIDEOIDHERE/0.jpg)](https://www.youtube.com/watch?v=VIDEOIDHERE)-->
+[![Maquette en action](https://img.youtube.com/vi/z30DYRxXN6c/0.jpg)](https://www.youtube.com/watch?v=z30DYRxXN6c)
 
 <!--
 ## Références 
