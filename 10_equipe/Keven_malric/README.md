@@ -33,40 +33,51 @@ Prendre en compte les risques liées à la position, la durabilité ainsi que le
 
  j'ai révisé le concepte du projet au point de vue des effets sonnores et du déploiement technique.
 
- * ![S1 Développement du concept](../img/concepte_sonore.jpg)
+![S1 Développement du concept](../img/concepte_sonore.jpg)
 
 ### semaine 2
 
  j'ai édité et filmé la vidéo d'intention avec l'aide du petit studio et du logiciel Reaper et Davinci.
 
- * ![S1 Développement du concept](../img/tournage.png)
+![S1 Développement du concept](../img/tournage.png)
 
 ### semaine 3
 
  j'ai refait une vidéo d'intention avec, cette fois-ci des images et des animations et une melleur qualité sonore, J'ai pris les mesures de la zone qui nous est attitrée afin de bien placé l'équipement dans l'environnement et j'ai crée un shémat tachnique avec ces mesures, dans le logiciel Inkscape.
 
- * ![S1 Développement du concept](../img/mesures.jpg)
+![S1 Développement du concept](../img/mesures.jpg)
 
 ### semaine 4 
  j'ai enregistré et fait le montage de tous les efftets sonore nécessaire au bon foctionnement du jeux, 
  j'ai modifié le vélo pour le rendre plus stable puis j'ai changé la roue afin qu'elle vacille moin et soit moin bruillante.
 
-* ![S1 Développement du concept](../img/creation_sonores.png)
+![S1 Développement du concept](../img/creation_sonores.png)
 
 
 ### semaine 5 
 j'ai passé la pluspart de la semaine à crée l'ambiance sonnore du jeu (la musique). 
-De plus, j'ai crée des textures pour les pistes de courses.
 
-* ![S1 Développement du concept](../img/ambiance_course.png)
 
-* ![S1 Développement du concept](../img/orange_light_ray_road.png)
+![S1 Développement du concept](../img/ambiance_course.png)
+
+
+<br>De plus, j'ai crée des textures pour les pistes de courses.<br>
+
+![S1 Développement du concept](../img/orange_light_ray_road.png)
+
+
+|![S1 Développement du concept](../img/orange_light_particles_road.png)|![S1 Développement du concept](../img/blue_light_particles_road.png)|
+|-----|-----|
+
+|![S1 Développement du concept](../img/force_field_v1.png)|![S1 Développement du concept](../img/force_field_v2.png)|
+|-----|-----|
+
  
-* ![S1 Développement du concept](../img/orange_light_particles_road.png)
+
    
-* ![S1 Développement du concept](../img/blue_light_particles_road.png)
 
-* ![S1 Développement du concept](../img/force_field_v1.png)
 
-* ![S1 Développement du concept](../img/force_field_v2.png)
+
+
+
  
