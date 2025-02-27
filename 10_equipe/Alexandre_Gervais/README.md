@@ -61,6 +61,19 @@ Ceci est la version dont on planifie utiliser :
 
 ![Le UI retravaillé](./img/Semaine_5_UI_v4.webp)
 
-Le portrait des personnages baisse grandement en opacité une fois que le personnage est éliminé, mais la fusible de bombe ne se réduit pas encore pour représenter le temps restant pour les joueurs.
+Le portrait des personnages baisse grandement en opacité une fois que le personnage est éliminé, mais le fusible de bombe ne se réduit pas encore pour représenter le temps restant pour les joueurs.
 
 ![UI retravaillé et dynamique](./img/Semaine_5_UI_elimination.webp)
+
+### Semaine 6
+Pour cette semaine, j'ai améliorer de plus le UI en ajoutant une animation pour représenter le fusible qui se réduit quand un joueur est en dernière place.
+
+![Animation du UI](./img/Semaine_6_UI_animation.webp)
+
+J'ai également fait en sorte que les portraits des personnages sont dans le même ordre que leur positionnements respectifs (exemple si le joueur rouge est en première place, son portrait sera tout en haut)
+
+![Positions dans le UI](./img/Semaine_6_UI_positions.webp)
+
+Finalement, avec la rétroaction reçue par les étudiants qui sont venus visiter nos projets, on a décidé d'ajouter des objets pour faire que notre oeuvre soit plus complète et engageante avec l'utilisateur. J'ai écris et dessiné des concepts pour des objets potentiels qu'on va ajouter à notre jeu.
+
+![Concept de tous objets](./img/Semaine_6_OBJ_concepts.webp)
