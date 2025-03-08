@@ -72,6 +72,10 @@ j'ai passé la pluspart de la semaine à crée l'ambiance sonnore du jeu (la mus
 |![S1 Développement du concept](../img/force_field_v1.png)|![S1 Développement du concept](../img/force_field_v2.png)|
 |-----|-----|
 
+### semaine de rattrapage 
+j'ai paint le vélo en rose et j'ai vernis les planches qui seront <br>
+utilisées au vernissage pour sécuriser les mouvements du vélos.
+
  
 
    
