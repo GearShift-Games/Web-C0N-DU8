@@ -68,3 +68,12 @@ J'ai continuer ma semaine en travaillant sur le script de l'AI pour leur permett
 ![S5 Choix de chemin en fin de tour](./img/Semaine_5_Chemin_Aleatoire_Fin_Tour.webp)
 ![S5 Script chemin aleatoire](./img/Semaine_5_Chemin_Aleatoire.webp)
 
+### Semaine 6
+
+La sixième semaine j'ai amélioré le script principal pour le joueur et les AI pour qu'il se penchent en tournant.
+
+J'ai aussi commencé le « Rubber Banding » pour les AI pour qu'il puissent rattraper le joueur plus facilement.
+
+![S6 Début Rubber Banding](./img/Semaine_6_Unity_Rubber_Banding.webp)
+
+J'ai fini par créer des encoche dans les planches de bois pour aider la stabilisation du vélo stationnaire.
