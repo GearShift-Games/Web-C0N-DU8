@@ -77,3 +77,6 @@ J'ai également fait en sorte que les portraits des personnages sont dans le mê
 Finalement, avec la rétroaction reçue par les étudiants qui sont venus visiter nos projets, on a décidé d'ajouter des objets pour faire que notre oeuvre soit plus complète et engageante avec l'utilisateur. J'ai écris et dessiné des concepts pour des objets potentiels qu'on va ajouter à notre jeu.
 
 ![Concept de tous objets](./img/Semaine_6_OBJ_concepts.webp)
+
+### Semaine de rattrapage
+Durant cette semaine, j'ai majoritairement travaillé avec mon comité de web, mais sur ce projet, j'ai fait la base pour préparer l'intégration du tutoriel à notre projet et j'ai fait des animations de UI pour le tutoriel.
