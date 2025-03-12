@@ -30,6 +30,104 @@
     <style>
         :root {
             --theme-hue:2;
+            :root {
+            --theme-hue:2;
+            --theme-link: rgb(222, 233, 234);
+            --theme-highlight: #00bcf0;
+        }
+ 
+        body {
+            background-color: #07111a;
+        }
+ 
+        .markdown-section a {
+            margin-top: 10px;
+            font-style: italic;
+            font-size: smaller;
+        }
+ 
+        .markdown-section a:hover {
+            color: #9ebdc6;
+        }
+ 
+        .sidebar > h1 {
+            margin: 1rem 1rem 1rem;
+            text-align: left;
+        }
+ 
+        .sidebar > h1 a {
+            color: var(--theme-link);
+            font-weight: 600;
+        }
+ 
+        .sidebar {
+            background-color: #0a1733;
+        }
+ 
+        .markdown-section h4{
+            color: var(--theme-link);
+            font-weight: 100;
+            text-align: center;
+        }
+ 
+        #main {
+            color: var(--theme-link);
+        }
+ 
+        .anchor span {
+            color: var(--theme-link);
+            text-transform: uppercase;
+            font-style: normal;
+        }
+ 
+        svg {
+            fill: #00bcf0;
+        }
+ 
+        .sidebar ul li a {
+            color: var(--theme-link);
+            font-size: medium;
+        }
+ 
+        .sidebar-toggle {
+            background-color: #182643;
+            width: 300px;
+        }
+ 
+        figcaption {
+            margin-top: 10px;
+        }
+ 
+        .search {
+            border-bottom: 1px solid #0a1733 !important;
+        }
+ 
+        .markdown-section tr:nth-child(2n){
+            background-color: #0a1825;
+        }
+ 
+        .markdown-section h1 {
+            font-size: 3.8rem;
+        }
+ 
+        .markdown-section h2 {
+            font-size: 3rem;
+        }
+ 
+        .markdown-section h3 {
+            font-size: 2rem;
+        }
+ 
+        .markdown-section h4 {
+            text-align: left;
+        }
+ 
+ 
+        @media screen and (max-width: 768px) {
+        .sidebar-toggle {
+            background-color: transparent;
+        }
+    }
         }
     </style>
 
