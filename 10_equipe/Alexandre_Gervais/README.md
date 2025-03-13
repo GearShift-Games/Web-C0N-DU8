@@ -80,3 +80,7 @@ Finalement, avec la rétroaction reçue par les étudiants qui sont venus visite
 
 ### Semaine de rattrapage
 Durant cette semaine, j'ai majoritairement travaillé avec mon comité de web, mais sur ce projet, j'ai fait la base pour préparer l'intégration du tutoriel à notre projet et j'ai fait des animations de UI pour le tutoriel.
+
+![Animation du tutoriel de tourner](./img/semaine_r_animation02.webp)
+
+![Animation du tutoriel de dépasser](./img/semaine_r_animation03.webp)
