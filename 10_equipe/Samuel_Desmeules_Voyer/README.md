@@ -58,14 +58,14 @@ Cette semaine j'ai fait des modèles 3D et animé le personage principal.
 ![Personage animé](./img/anime.webp)
 
 ### Semaine 6
-
+Cette semaine, j'ai fait des modèles 3Ds et commencé à les placer dans les circuits. J'ai aussi fait les textures de la skybox et de la piste.
 
 ![Image de différentes textures](./img/textures.webp)
 ![Image du modèle 3D des bâtiments](./img/batiment.webp)
 ![Image du modèle 3D du mur](./img/mur.webp)
 
 ### Semaine 7
-La dernière semaine avant l'exposition des projets, j'ai modifié et amélioré les premières versions de la msique d'ambiance du jeu mais la majorité de mon travail cette semaine se résume à remplire les différentes circuits du jeu d'objets 3Ds dans le but d'améliorer l'identité visuelle du jeu.
+La dernière semaine avant l'exposition des projets, j'ai modifié et amélioré les premières versions de la musique d'ambiance du jeu et mis les touches finales sur la version finale de celle-ci mais la majorité de mon travail cette semaine se résume à remplire les différentes circuits du jeu d'objets 3Ds dans le but d'améliorer l'identité visuelle du jeu.
 
 ![Image du premier circuit](./img/circuit_1.webp)
 ![Image du troisième circuit](./img/circuit_3.webp)
