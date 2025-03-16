@@ -63,6 +63,6 @@ Cette semaine j'ai fait des modèles 3D et animé le personage principal.
 ![Image de l'obelisk](./img/obelisk.webp)
 
 ### Semaine 7
-
+La dernière semaine avant l'exposition des projets, j'ai 
 
 ![Image de l'obelisk](./img/obelisk.webp)
