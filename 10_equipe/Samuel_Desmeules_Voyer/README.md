@@ -60,9 +60,12 @@ Cette semaine j'ai fait des modèles 3D et animé le personage principal.
 ### Semaine 6
 
 
-![Image de l'obelisk](./img/obelisk.webp)
+![Image de différentes textures](./img/textures.webp)
+![Image du modèle 3D des bâtiments](./img/batiment.webp)
+![Image du modèle 3D du mur](./img/mur.webp)
 
 ### Semaine 7
-La dernière semaine avant l'exposition des projets, j'ai 
+La dernière semaine avant l'exposition des projets, j'ai modifié et amélioré les premières versions de la msique d'ambiance du jeu mais la majorité de mon travail cette semaine se résume à remplire les différentes circuits du jeu d'objets 3Ds dans le but d'améliorer l'identité visuelle du jeu.
 
-![Image de l'obelisk](./img/obelisk.webp)
+![Image du premier circuit](./img/circuit_1.webp)
+![Image du troisième circuit](./img/circuit_3.webp)
