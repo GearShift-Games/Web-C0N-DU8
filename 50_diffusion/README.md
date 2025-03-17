@@ -26,13 +26,13 @@ Documentation du projet finalisé
 ![TouchDesigner](../medias/images/Instruction_01.webp)
 
 ##### 2: Lancer Unity et ouvrir la scène Intro  
-![Unity01](../medias/images/Instruction_02.webp)
+![Unity Préparation](../medias/images/Instruction_02.webp)
 
 ##### 3: Lancer OBS et envoyer la projection au projecteur  
 ![OBS](../medias/images/Instruction_03.webp) 
 
 ##### 4: Débutez la scène intro pour commencer le jeu  
-![Unity02](../medias/images/Instruction_04.webp)
+![Unity Lancement](../medias/images/Instruction_04.webp)
 
 ## Fonctionnement du projet
 
