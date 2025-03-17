@@ -53,8 +53,13 @@ Prendre en compte les risques liées à la position, la durabilité ainsi que le
 
 ![S1 Développement du concept](../img/creation_sonores.png)
 
-
 ### semaine 5 
+j'ai passé la pluspart de la semaine à créer 10 variations pour chaque son créé 
+la semaine passé. 
+
+![S1 Développement du concept](../img/ambiance_course.png)
+
+### semaine 6 
 j'ai passé la pluspart de la semaine à crée l'ambiance sonnore du jeu (la musique). 
 
 
