@@ -23,16 +23,16 @@ Documentation du projet finalisé
 ## Manuel d'instruction pour l'opération
 
 ##### 1: Lancement de TouchDesigner  
-image
+![TouchDesigner](../medias/images/Instruction_01.webp)
 
 ##### 2: Lancer Unity et ouvrir la scène Intro  
-image
+![Unity01](../medias/images/Instruction_02.webp)
 
 ##### 3: Lancer OBS et envoyer la projection au projecteur  
-image
+![OBS](../medias/images/Instruction_03.webp) 
 
 ##### 4: Débutez la scène intro pour commencer le jeu  
-image
+![Unity02](../medias/images/Instruction_04.webp)
 
 ## Fonctionnement du projet
 
@@ -58,7 +58,7 @@ image
 
 ## Disposition de l'expérience
 
-![Studio](../medias/images/DiffusionProjecteur.webp)
+![Studio](../medias/images/Diffusion_Complet.webp)
 ![Projecteur](../medias/images/DiffusionProjecteur.webp)
 ![Vélo](../medias/images/Diffusion_velo.webp)
 ![Cable Management](../medias/images/Diffusion_Cable.webp)
