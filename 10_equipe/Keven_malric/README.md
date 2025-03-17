@@ -92,9 +92,14 @@ utilisées au vernissage pour sécuriser les mouvements du vélos.
 ![S1 Développement du concept](../img/velo4.jpg)
 
  
+### semaine 7
 
+J'ai organisé la salle de diffusion de notre projet 
+de façon organisé et j'ai modélisé de objets pour décorer les circuit sur blender.
    
+![S1 Développement du concept](../img/velo1.jpg)
 
+![S1 Développement du concept](../img/velo2.jpg)
 
 
 
