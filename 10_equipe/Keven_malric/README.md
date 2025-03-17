@@ -97,8 +97,10 @@ utilisées au vernissage pour sécuriser les mouvements du vélos.
 J'ai organisé la salle de diffusion de notre projet 
 de façon organisé et j'ai modélisé de objets pour décorer les circuit sur blender.
    
-![S1 Développement du concept](../img/velo1.jpg)
-![S1 Développement du concept](../img/velo2.jpg)
+![S1 Développement du concept](../img/blender_spin.png)
+![S1 Développement du concept](../img/blender_disk.png)
+![S1 Développement du concept](../img/blender_objects_p1.png)
+![S1 Développement du concept](../img/blender_crystal.png)
 
 ![Studio](../medias/images/Diffusion_Complet.webp)
 ![Projecteur](../medias/images/DiffusionProjecteur.webp)
