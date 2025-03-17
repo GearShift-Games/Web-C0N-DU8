@@ -59,14 +59,14 @@ image
 
 ## Disposition de l'expérience
 
-* ![Studio](../medias/images/DiffusionProjecteur.webp)
-* ![Projecteur](../medias/images/DiffusionProjecteur.webp)
-* ![Vélo](../medias/images/Diffusion_velo.webp)
-* ![Cable Management](../medias/images/Diffusion_Cable.webp)
-* ![Haut Parleur](../medias/images/Diffusion_HautParleur.webp)
-* ![Kinect](../medias/images/Diffusion_Kinect.webp)
-* ![Ordinateur](../medias/images/Diffusion_Ordi.webp)
-* ![Surface de projection](../medias/images/Diffusion_Projection.webp)
-* ![Ventilateur](../medias/images/Diffusion_Ventilateur.webp)
+![Studio](../medias/images/DiffusionProjecteur.webp)
+![Projecteur](../medias/images/DiffusionProjecteur.webp)
+![Vélo](../medias/images/Diffusion_velo.webp)
+![Cable Management](../medias/images/Diffusion_Cable.webp)
+![Haut Parleur](../medias/images/Diffusion_HautParleur.webp)
+![Kinect](../medias/images/Diffusion_Kinect.webp)
+![Ordinateur](../medias/images/Diffusion_Ordi.webp)
+![Surface de projection](../medias/images/Diffusion_Projection.webp)
+![Ventilateur](../medias/images/Diffusion_Ventilateur.webp)
 
 
