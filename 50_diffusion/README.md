@@ -9,8 +9,12 @@ Documentation du projet finalisé
 
 
 * Vidéo 
+  * Bande d'annonce
+ [![Bande d'annonce de C0N-DU8](../medias/images/annonce-thumbnail.webp)](https://youtu.be/-IFHHGbjp_o)
 
-* Documentation vidéo de l'installation en action
+  * Vidéo d'intention
+    
+ [![Vidéo d'intention](https://img.youtube.com/vi/wziDJZdT_d4/0.jpg)](https://www.youtube.com/watch?v=wziDJZdT_d4)
 
 ## Instruction d'utilisation
 
