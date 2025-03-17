@@ -102,6 +102,16 @@ de façon organisé et j'ai modélisé de objets pour décorer les circuit sur b
 ![S1 Développement du concept](../img/velo2.jpg)
 
 
+![Studio](../medias/images/Diffusion_Complet.webp)
+![Projecteur](../medias/images/DiffusionProjecteur.webp)
+![Vélo](../medias/images/Diffusion_velo.webp)
+![Cable Management](../medias/images/Diffusion_Cable.webp)
+![Haut Parleur](../medias/images/Diffusion_HautParleur.webp)
+![Kinect](../medias/images/Diffusion_Kinect.webp)
+![Ordinateur](../medias/images/Diffusion_Ordi.webp)
+![Surface de projection](../medias/images/Diffusion_Projection.webp)
+![Ventilateur](../medias/images/Diffusion_Ventilateur.webp)
+
 
 
  
