@@ -57,7 +57,9 @@ Prendre en compte les risques liées à la position, la durabilité ainsi que le
 j'ai passé la pluspart de la semaine à créer 10 variations pour chaque son créé 
 la semaine passé. 
 
-![S1 Développement du concept](../img/ambiance_course.png)
+![S1 Développement du concept](../img/variations_p1.png)
+
+![S1 Développement du concept](../img/variations_p2.png)
 
 ### semaine 6 
 j'ai passé la pluspart de la semaine à crée l'ambiance sonnore du jeu (la musique). 
