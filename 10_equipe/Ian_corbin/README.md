@@ -32,8 +32,8 @@ Pour la cinquième semaine, j'ai créer une nouvelle intersection pour la piste 
  ### Semaine 6 
  Pour la sixième semaine, j'ai créer la premiere vrai piste du jeux, j'ai aussi créer le turbo pour le vélo et améliorer la trail vfx du vélo.
 
- Image à ajouté
- 
+ ![Circuit Finale 01](./img/Semaine6_Circuit.webp)
+ ![Texture finale de la piste et des murs](./img/Semaine6_Texture.webp)
  ### Semaine de Ratrapage
  J'ai commencer a créer des des effets visuels, améliorer des textures, réparer des UV et créer la texture du mur du circuit.
  
@@ -42,4 +42,5 @@ Image à ajouté
  ### Semaine 7
  Pour la septième semaine, j'ai créer les nouvelles pistes, créer des textures et régler des problèmes.
 
- Image à ajouté
+ ![Circuit Finale 02](./img/Semaine7_Circuit.webp)
+ ![Circuit Finale 03](./img/Semaine7_Circuit2.webp)
