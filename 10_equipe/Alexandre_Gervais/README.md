@@ -84,3 +84,16 @@ Durant cette semaine, j'ai majoritairement travaillé avec mon comité de web, m
 ![Animation du tutoriel de tourner](./img/semaine_r_animation02.webp)
 
 ![Animation du tutoriel de dépasser](./img/semaine_r_animation03.webp)
+
+### Semaine 7
+Pour notre dernière semaine de développement, j'ai réalisé toutes sortes de divers choses. Premièrement, j'ai fait une animation d'étincelles pour le fil de bombe dans le UI et une animation qui affiche la mort également dans le UI. J'ai codé les 3 niveaux courts de tutoriels qui ont une animation de confirmation de la réussite de l'étape du tutoriel et fait, avec l'aide de Samuel, les modèles 3D qui les décores.
+
+![Confirmation de réussite](./img/Semaine_7_checkmark.webp)
+
+Pour aider avec la vitesse des tests de mon équipe, j'ai codé un menu Debug pour rapidement changer entre niveaux. De plus, j'ai codé la scène intro qui joue quand aucun joueur n'est présent où la caméra change dynamiquement d'angle entre les 5 AI qui naviguent infiniment la piste. Ce code de changement dynamique de caméra à été également utilisé dans la scène qui joue quand l'oeuvre est terminée. Par la suite, j'ai ajouté des icônes qui aident avec la compréhension de l'ordre dans le UI.
+
+![Icône de première place](./img/Semaine_7_positions.webp)
+
+Finalement, j'ai fait le montage vidéo de la bande d'annonce de notre projet.
+
+![Vignette de la vidéo](./img/Semaine_7_video.webp)
