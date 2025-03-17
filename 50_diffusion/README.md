@@ -2,12 +2,6 @@
 
 Documentation du projet finalisé 
 
-* ![Image 1](https://placehold.co/400x400?text=1+image)
-* ![Image 2](https://placehold.co/400x400?text=2+image)
-* ![Image 3](https://placehold.co/400x400?text=3+image)
-* ![Image 4](https://placehold.co/400x400?text=4+image)
-
-
 * Vidéo 
   * Bande d'annonce
  [![Bande d'annonce de C0N-DU8](../medias/images/annonce-thumbnail.webp)](https://youtu.be/-IFHHGbjp_o)
@@ -62,4 +56,17 @@ image
 ##### 9: Si le joueur reste un total de 10 secondes, le jeu va recommencer a partir du premier circuit.
 
 ##### 10: Si le joueur quitte la zone pendant plus de 3 secondes, le jeu va automatiquement revenir a la scèene d'introduction(cette étape est valable durant l'entiereté de l'expérience.)
+
+## Disposition de l'expérience
+
+* ![Studio](../medias/images/DiffusionProjecteur.webp)
+* ![Projecteur](../medias/images/DiffusionProjecteur.webp)
+* ![Vélo](../medias/images/Diffusion_velo.webp)
+* ![Cable Management](../medias/images/Diffusion_Cable.webp)
+* ![Haut Parleur](../medias/images/Diffusion_HautParleur.webp)
+* ![Kinect](../medias/images/Diffusion_Kinect.webp)
+* ![Ordinateur](../medias/images/Diffusion_Ordi.webp)
+* ![Surface de projection](../medias/images/Diffusion_Projection.webp)
+* ![Ventilateur](../medias/images/Diffusion_Ventilateur.webp)
+
 
