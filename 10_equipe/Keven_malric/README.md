@@ -83,6 +83,14 @@ j'ai passé la pluspart de la semaine à crée l'ambiance sonnore du jeu (la mus
 j'ai paint le vélo en rose et j'ai vernis les planches qui seront <br>
 utilisées au vernissage pour sécuriser les mouvements du vélos.
 
+![S1 Développement du concept](../img/velo1.jpg)
+
+![S1 Développement du concept](../img/velo2.jpg)
+
+![S1 Développement du concept](../img/velo3.jpg)
+
+![S1 Développement du concept](../img/velo4.jpg)
+
  
 
    
