@@ -28,9 +28,9 @@ Documentation du projet finalisé
 ##### 2: Lancer projet « HellRider » sur Unity (Le pull de github au besoin) et ouvrir la scène « INTRO »
 ![Unity Préparation](../medias/images/Instruction_02.webp)
 
-##### 3: Lancer OBS et envoyer la projection au projecteur  
+##### 3: Lancer OBS, clique droit sur le rendu et envoyer la projection vers le projecteur  
 ![OBS](../medias/images/Instruction_03.webp) 
-![OBS](../medias/images/Instruction_03.webp) 
+![OBS](../medias/images/Instruction_03_precision.webp) 
 
 ##### 4: Débutez la scène intro pour commencer le jeu  
 ![Unity Lancement](../medias/images/Instruction_04.webp)
