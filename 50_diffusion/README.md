@@ -22,13 +22,14 @@ Documentation du projet finalisé
 
 ## Manuel d'instruction pour l'opération
 
-##### 1: Lancement de TouchDesigner  
+##### 1: Lancer le fichier « bicyc.toe » sur TouchDesigner (Le pull de github au besoin) 
 ![TouchDesigner](../medias/images/Instruction_01.webp)
 
-##### 2: Lancer Unity et ouvrir la scène Intro  
+##### 2: Lancer projet « HellRider » sur Unity (Le pull de github au besoin) et ouvrir la scène « INTRO »
 ![Unity Préparation](../medias/images/Instruction_02.webp)
 
 ##### 3: Lancer OBS et envoyer la projection au projecteur  
+![OBS](../medias/images/Instruction_03.webp) 
 ![OBS](../medias/images/Instruction_03.webp) 
 
 ##### 4: Débutez la scène intro pour commencer le jeu  
