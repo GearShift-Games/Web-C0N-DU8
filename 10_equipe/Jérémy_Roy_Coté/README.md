@@ -77,3 +77,9 @@ J'ai aussi commencé le « Rubber Banding » pour les AI pour qu'il puissent rat
 ![S6 Début Rubber Banding](./img/Semaine_6_Unity_Rubber_Banding.webp)
 
 J'ai fini par créer des encoche dans les planches de bois pour aider la stabilisation du vélo stationnaire.
+
+### Semaine 7
+
+Pour la dernière semaine, j'ai amélioré le code pour quand quelqu'un rentre dans la zone et sort de la zone. J'ai aussi fait le liens entre les scenes (les courses).
+
+J'ai fini par améliorer le 《 rubberbanding 》sur les AI pour qu'ils aillent plus vite quand le joueur est plus loin qu'eux.
