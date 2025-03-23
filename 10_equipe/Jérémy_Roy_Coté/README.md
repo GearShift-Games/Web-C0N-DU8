@@ -82,4 +82,6 @@ J'ai fini par créer des encoche dans les planches de bois pour aider la stabili
 
 Pour la dernière semaine, j'ai amélioré le code pour quand quelqu'un rentre dans la zone et sort de la zone. J'ai aussi fait le liens entre les scenes (les courses).
 
+J'ai ensuite testé pour voir s'il y avait des erreurs et je me suis assuré que tout fonctionnait correctement.
+
 J'ai fini par améliorer le 《 rubberbanding 》sur les AI pour qu'ils aillent plus vite quand le joueur est plus loin qu'eux.
