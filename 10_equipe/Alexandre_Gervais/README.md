@@ -31,6 +31,8 @@ De plus, j'ai changé le système de caméra pour le système [cinemachine](http
 
 ![Aperçu du Cinemachine](./img/Semaine_3_Caméra_Dynamique.webp)
 
+J'ai également fait le montage vidéo de la version finale de la vidéo des intentions.
+
 Finalement, j'ai refait le code de movement pour se centrer autour des Wheel Colliders aulieu du Rigidbody avec des fonctions pour chaque actions. Il y a quelques problèmes comme la friction trop glissante, la vitesse du vélo est lente et, une fois un virage fait, le vélo pendule entre faire une rotation z vers la gauche et la droite à l'infini.
 
 ![Code des movements de la semaine 3](./img/Semaine_3_Code.webp)
