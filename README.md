@@ -12,5 +12,23 @@ Des motards décédés se retrouvent à un purgatoire après leurs mort et sont 
 L'utilisateur prend le contrôle d'un de ces motards nommé *Hell-Mett* alors qu'il tente de vaincre ses adversaire dans une série de courses endiablées. L'utilisateur contrôle *Hell-mett* en pédalant et en bougeant son corps de gauche à droite dans la vraie vie. De plus, l'interacteur aura la possibilité d'accéder à des mécanismes tels qu'un turbo ainsi que des raccourcis dans le parcour afin de survivre ce purgatoire.
 
 <!--[![Vidéo d'intention](https://img.youtube.com/vi/wziDJZdT_d4/0.jpg)](https://www.youtube.com/watch?v=wziDJZdT_d4)-->
+## Galerie d'images
 
 <!--(Galerie photo du projet réalisé ici)-->
+![Image de l'oeuvre exposée](./medias/images/Diffusion_Complet.webp)
+
+![Image de l'oeuvre exposée](./medias/images/00_image_gallery.webp)
+
+![Image de l'oeuvre exposée](./medias/images/01_image_gallery.webp)
+
+![Image de l'oeuvre exposée](./medias/images/02_image_gallery.webp)
+
+![Image de l'oeuvre exposée](./medias/images/03_image_gallery.webp)
+
+![Image de l'oeuvre exposée](./medias/images/04_image_gallery.webp)
+
+![Image de l'oeuvre exposée](./medias/images/05_image_gallery.webp)
+
+![Image de l'oeuvre exposée](./medias/images/06_image_gallery.webp)
+
+![Image de l'oeuvre exposée](./medias/images/07_image_gallery.webp)
