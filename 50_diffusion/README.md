@@ -4,7 +4,7 @@ Documentation du projet finalisé
 
 * Vidéo 
   * Making of
- [![Making of de C0N-DU8](../medias/images/c0ndu8_makingOf_thumbnail.webp)](https://youtu.be/3XaCeuDd55Q)
+ [![Making of de C0N-DU8](../medias/images/c0ndu8_makingOf_thumbnail.webp)](https://youtu.be/uQutqaW_Ego)
 
   * Vidéo d'intention
     
