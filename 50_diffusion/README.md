@@ -3,8 +3,8 @@
 Documentation du projet finalisé 
 
 * Vidéo 
-  * Bande d'annonce
- [![Bande d'annonce de C0N-DU8](../medias/images/annonce-thumbnail.webp)](https://youtu.be/-IFHHGbjp_o)
+  * Making of
+ [![Making of de C0N-DU8](../medias/images/c0ndu8_makingOf_thumbnail.webp)](https://youtu.be/3XaCeuDd55Q)
 
   * Vidéo d'intention
     
