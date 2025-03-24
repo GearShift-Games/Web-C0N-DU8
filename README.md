@@ -2,7 +2,7 @@
 
 ![Titre C0NDU8](./medias/images/titre_c0ndu8.png)
 
-[![Making of de C0N-DU8](./medias/images/c0ndu8_makingOf_thumbnail.webp)](https://youtu.be/3XaCeuDd55Q)
+[![Making of de C0N-DU8](./medias/images/c0ndu8_makingOf_thumbnail.webp)](https://youtu.be/uQutqaW_Ego)
 <!--(bande annonce ici)-->
 <!--[![Bande d'annonce de C0N-DU8](./medias/images/annonce-thumbnail.webp)](https://youtu.be/-IFHHGbjp_o)-->
 
