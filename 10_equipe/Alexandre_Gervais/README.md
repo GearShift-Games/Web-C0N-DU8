@@ -97,3 +97,8 @@ Pour aider avec la vitesse des tests de mon équipe, j'ai codé un menu Debug po
 Finalement, j'ai fait le montage vidéo de la bande d'annonce de notre projet.
 
 ![Vignette de la vidéo](./img/Semaine_7_video.webp)
+
+### Semaine 8
+J'ai fait le montage et tournage du «Making Of».
+
+![Image de la vidéo Making of](../../medias/images/c0ndu8_makingOf_thumbnail.webp)
