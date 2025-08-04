@@ -1,6 +1,7 @@
 # Keven Malric
 
  ![Kevin_Malric](../img/keven_malric.webp)
+<!--[Portfolio](LienDeTonPortfolioIci)-->
 
 ## Rôle
 
@@ -102,14 +103,14 @@ de façon organisé et j'ai modélisé de objets pour décorer les circuit sur b
 ![S1 Développement du concept](../img/blender_objects_p1.png)
 ![S1 Développement du concept](../img/blender_crystal.png)
 
-![Studio](../medias/images/Diffusion_Complet.webp)
-![Projecteur](../medias/images/DiffusionProjecteur.webp)
-![Vélo](../medias/images/Diffusion_velo.webp)
-![Cable Management](../medias/images/Diffusion_Cable.webp)
-![Haut Parleur](../medias/images/Diffusion_HautParleur.webp)
-![Kinect](../medias/images/Diffusion_Kinect.webp)
-![Surface de projection](../medias/images/Diffusion_Projection.webp)
-![Ventilateur](../medias/images/Diffusion_Ventilateur.webp)
+![Studio](../../medias/images/Diffusion_Complet.webp)
+![Projecteur](../../medias/images/DiffusionProjecteur.webp)
+![Vélo](../../medias/images/Diffusion_velo.webp)
+![Cable Management](../../medias/images/Diffusion_Cable.webp)
+![Haut Parleur](../../medias/images/Diffusion_HautParleur.webp)
+![Kinect](../../medias/images/Diffusion_Kinect.webp)
+![Surface de projection](../../medias/images/Diffusion_Projection.webp)
+![Ventilateur](../../medias/images/Diffusion_Ventilateur.webp)
 
 
 

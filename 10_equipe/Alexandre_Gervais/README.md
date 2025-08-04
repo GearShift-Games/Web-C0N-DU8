@@ -1,7 +1,8 @@
 # Alexandre Gervais
 ![Alexandre Gervais](../img/alexandre_gervais.webp)
+[Portfolio](https://alexandregervaiscode.github.io/Alexandre-Gervais-Portfolio)
 
-Je suis le programmeur des méchaniques dans l'engin de jeu Unity. Je m'occupe des movements de base du jeu comme pouvoir tourner à horizontalement et avancer vers l'avant. Je suis également le responsable des méchaniques centrales comme le turbo permettant à l'utilisateur de rattraper la compétition. Parlant de la compétition, moi et Ian Corbin sont responsables de fonctionnement interne du movement des AI qui défient l'utilisateur.
+Je suis un concepteur de l'expérience, le programmeur des méchaniques de base dans l'engin de jeu Unity, le UI/UX designer ainsi que le monteur vidéo.
 
  ## Réalisations
  <!-- Une image par semaine de la réalisation dont tu es le plus fier avec une légende -->

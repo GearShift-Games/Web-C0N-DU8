@@ -1,6 +1,7 @@
 # Jérémy Roy-Coté
 
  ![Jérémy_Roy_Coté](../img/jeremy_roy-cote.webp)
+[Portfolio](https://madkingside.github.io)
 
 Je suis le programmeur d'interconnectivité du jeu C0N DU8. J'ai pour rôle de détecter les intéractions du joueur avec la Kinect et les boutons et d'envoyer les données entre les logiciels Touchdesigner, Arduino IDE et Unity. De plus, Je gere le détection du joueur et l'exclusion des personnes autre que le joueur qui sont vue par la Kinect.
 
